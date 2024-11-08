@@ -7,8 +7,8 @@ export const wordSlice = createSlice({
         status: 'checking',
         words: [{
             id: new Date().getTime(),
-            word: 'Hello',
-            meaning: 'Hola',
+            word: 'However',
+            meaning: 'Sin embargo',
         }],
     },
     reducers: {
